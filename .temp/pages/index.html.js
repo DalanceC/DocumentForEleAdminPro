@@ -1,3 +1,0 @@
-import comp from "C:/Users/arche/Desktop/theme/EleAdminProDocument/docs/.vuepress/.temp/pages/index.html.vue"
-const data = JSON.parse("{\"path\":\"/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"pageLayout\":\"home\",\"externalLinkIcon\":false,\"config\":[{\"type\":\"hero\",\"full\":true,\"background\":\"tint-plate\",\"hero\":{\"name\":\"EleAdminPro\",\"text\":\"使用 Vue3、AntDesignVue 搭建完整的登录鉴权、动态路由流程\",\"actions\":[{\"theme\":\"brand\",\"text\":\"开发文档\",\"link\":\"/notes/EleAdminPro/one.md\"}]}}]},\"headers\":[],\"readingTime\":{\"minutes\":0.15,\"words\":45},\"git\":{},\"filePathRelative\":\"README.md\",\"categoryList\":[],\"bulletin\":false}")
-export { comp, data }
