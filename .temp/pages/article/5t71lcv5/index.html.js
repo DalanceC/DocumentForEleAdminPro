@@ -1,0 +1,3 @@
+import comp from "C:/Users/arche/Desktop/theme/EleAdminProDocument/docs/.vuepress/.temp/pages/article/5t71lcv5/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/5t71lcv5/\",\"title\":\"Markdown\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Markdown\",\"tags\":[\"markdown\"],\"createTime\":\"2025/01/09 17:41:12\",\"permalink\":\"/article/5t71lcv5/\"},\"headers\":[],\"readingTime\":{\"minutes\":2.45,\"words\":734},\"git\":{},\"filePathRelative\":\"preview/markdown.md\",\"categoryList\":[{\"id\":\"5ebeb6\",\"sort\":10000,\"name\":\"preview\"}],\"bulletin\":false}")
+export { comp, data }
